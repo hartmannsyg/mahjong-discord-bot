@@ -164,7 +164,7 @@ module.exports = (message, client) => {
     }
 
     if (shanten === 1) {
-        ukeire += "* Resulting in 5+ tile tenpai"
+        ukeire += "\* Resulting in 5+ tile tenpai"
     }
 
     response += ukeire;
